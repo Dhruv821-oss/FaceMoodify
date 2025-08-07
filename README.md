@@ -23,5 +23,9 @@ OpenCV
 
 DeepFace / FER (Facial Emotion Recognition)
 
+
+<img width="1892" height="837" alt="Screenshot 2025-08-07 205708" src="https://github.com/user-attachments/assets/3be58b1b-f3f7-4e16-8cca-265b7451a8a1" />
+
+
 🚀 Try It Out
 Run it locally or deploy it on platforms like Streamlit Cloud or Hugging Face Spaces.
